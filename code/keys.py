@@ -205,6 +205,13 @@ symbol_key_words = {
     # Currencies
     "dollar": "$",
     "pound": "£",
+
+    #begin_twiebelt
+    "leap": "(",
+    "reap": ")",
+    "beep": "{",
+    "boop": "}",
+    #end_twiebelt
 }
 
 # make punctuation words also included in {user.symbol_keys}
