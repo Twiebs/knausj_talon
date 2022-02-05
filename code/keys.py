@@ -211,6 +211,7 @@ symbol_key_words = {
     "reap": ")",
     "beep": "{",
     "boop": "}",
+    "semi": ";",
     #end_twiebelt
 }
 
