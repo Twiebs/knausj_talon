@@ -208,6 +208,7 @@ symbol_key_words = {
 
     #begin_twiebelt
     "leap": "(",
+    "weep": "(",
     "reap": ")",
     "beep": "{",
     "boop": "}",
